@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">	
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
-  <a href="mailto:britoleonne@gmail.com">
-   <img alt="Email" src="https://img.shields.io/badge/-britoleonne%40gmail.com-%23525DCB" />
-  </a>
 </p>
 
 <p align="center">
